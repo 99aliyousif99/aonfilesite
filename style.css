@@ -67,7 +67,7 @@ body {
 
 /* Style for the hero section */
 .hero {
-    background: url('images/background.svg') center/cover no-repeat;
+    background: url('images/cover.png') center/cover no-repeat;
     /* Set your background image here */
     height: 100vh;
     display: flex;
